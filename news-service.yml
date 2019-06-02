@@ -1,2 +1,4 @@
 some:
   property: global
+  other:
+    property: 'application specific property'

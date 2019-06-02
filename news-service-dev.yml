@@ -1,4 +1,2 @@
 some:
-  property: global
-  other:
-    property: application specific property
+  property: app specific overridden value

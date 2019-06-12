@@ -1,2 +1,4 @@
 some:
-  property: app specific overridden value
+  property: news-service-dev
+  other:
+    property: news-service-dev

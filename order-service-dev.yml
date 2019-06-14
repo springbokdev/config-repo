@@ -1,0 +1,4 @@
+some:
+  property: order-service - this is the dev some.other value
+  other:
+    property: order-service - this is the dev some.other.property value

@@ -1,0 +1,4 @@
+some:
+  property: order-service - this is the default some.other value!!
+  other:
+    property: order-service - this is the default some.other.property value!!

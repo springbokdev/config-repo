@@ -1,4 +1,4 @@
 some:
-  property: news-service-dev
+  property: This is the dev some.other value
   other:
-    property: news-service-dev
+    property: This is the dev some.other.property value

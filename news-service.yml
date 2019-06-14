@@ -1,4 +1,4 @@
 some:
-  property: news-service-default
+  property: This is the default some.other value
   other:
-    property: news-service-default
+    property: This is the default some.other.property value
